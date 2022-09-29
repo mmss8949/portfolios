@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Vue.js",
+    "img": "mdi-vuejs ",
+    "type": "icon"
+  },
+  {
+    "id": 2,
+    "title": "flutter",
+    "img": "./tools/img/logo/flutter.svg",
+    "type": "img"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "img": "./tools/img/logo/js.svg",
+    "type": "img"
+  },
+  {
+    "id": 4,
+    "title": "HTML",
+    "img": "./tools/img/logo/html.svg",
+    "type": "img"
+  },
+  {
+    "id": 5,
+    "title": "CSS",
+    "img": "./tools/img/logo/css.png",
+    "type": "img"
+  },
+  {
+    "id": 6,
+    "title": "SCSS",
+    "img": "./tools/img/logo/sass.png",
+    "type": "img"
+  },
+  {
+    "id": 7,
+    "title": "Sass",
+    "img": "./tools/img/logo/sass.png",
+    "type": "img"
+  },
+  {
+    "id": 8,
+    "title": "Vuetify",
+    "img": "./tools/img/logo/vuetify.svg",
+    "type": "img"
+  },
+  {
+    "id": 9,
+    "title": "Bootstrap",
+    "img": "./tools/img/logo/bootstrap.png",
+    "type": "img"
+  },
+  {
+    "id": 10,
+    "title": "vue-chartjs",
+    "img": "mdi-chart-bar",
+    "type": "icon"
+  },
+  {
+    "id": 11,
+    "title": "pdfmake",
+    "img": "mdi-file-pdf-box ",
+    "type": "icon"
+  },
+  {
+    "id": 12,
+    "title": "Vue Router",
+    "img": "./tools/img/logo/vue.png",
+    "type": "img"
+  },
+  {
+    "id": 13,
+    "title": "Vuex",
+    "img": "./tools/img/logo/vue.png",
+    "type": "img"
+  },
+  {
+    "id": 14,
+    "title": "Google Maps",
+    "img": "./tools/img/logo/google-maps.png",
+    "type": "img"
+  }
+]

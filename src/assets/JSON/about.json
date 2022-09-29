@@ -1,0 +1,95 @@
+{
+  "name": "王炫鈞",
+  "email": "mmss8949@gmail.com",
+  "birDate":"1994/08/10",
+  "title": "前端工程師",
+  "timeline": [
+    {
+      "id": 0,
+      "title": "大葉大學資工學系就讀",
+      "time": "2012",
+      "color": "cyan",
+      "icon": "mdi-book-account-outline"
+    },
+    {
+      "id": 1,
+      "title": "大葉大學資工所就讀",
+      "time": "2016",
+      "color": "cyan",
+      "icon": "mdi-book-account-outline"
+    },
+    {
+      "id": 2,
+      "title": "服兵役",
+      "time": "2019",
+      "color": "cyan",
+      "icon": "mdi-book-account-outline"
+    },
+    {
+      "id": 3,
+      "title": "大葉大學電算中心就職",
+      "time": "2019",
+      "color": "cyan",
+      "icon": "mdi-briefcase-outline "
+    },
+    {
+      "id": 4,
+      "title": "",
+      "time": "至今",
+      "color": "pink",
+      "icon": "mdi-briefcase-outline "
+    }
+  ],
+  "exp": [],
+  "skill": [
+    {
+      "id": 1,
+      "title": "Vue.js",
+      "img": "mdi-vuejs ",
+      "type": "icon"
+    },
+    {
+      "id": 2,
+      "title": "flutter",
+      "img": "./tools/img/logo/flutter.svg",
+      "type": "img"
+    },
+    {
+      "id": 9,
+      "title": "php",
+      "img": "mdi-language-php ",
+      "type": "icon"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript",
+      "img": "./tools/img/logo/js.svg",
+      "type": "img"
+    },
+    {
+      "id": 4,
+      "title": "HTML",
+      "img": "./tools/img/logo/html.svg",
+      "type": "img"
+    },
+    {
+      "id": 5,
+      "title": "CSS",
+      "img": "./tools/img/logo/css.png",
+      "type": "img"
+    },
+    {
+      "id": 6,
+      "title": "SCSS",
+      "img": "./tools/img/logo/sass.png",
+      "type": "img"
+    },
+    {
+      "id": 8,
+      "title": "Vuetify",
+      "img": "./tools/img/logo/vuetify.svg",
+      "type": "img"
+    }
+  
+  ]
+}

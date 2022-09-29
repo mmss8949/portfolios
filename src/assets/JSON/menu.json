@@ -1,0 +1,12 @@
+[
+  {
+    "icon":"mdi-account-circle-outline",
+    "title":"About me",
+    "page":"/AboutMe"
+  },
+  {
+    "icon":"mdi-folder-multiple-outline ",
+    "title":"Profolio",
+    "page":"/Profolio"
+  }
+]
